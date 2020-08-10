@@ -7,7 +7,7 @@ module.exports = {
   },
   "servers": [
     {
-      "url": "http://dvws.local"
+      "url": "http://localhost:8000"
     }
   ],
   "paths": {
@@ -32,7 +32,7 @@ module.exports = {
         },
         "servers": [
           {
-            "url": "http://dvws.local"
+            "url": "http://localhost:8000"
           }
         ],
         "parameters": [
@@ -54,7 +54,7 @@ module.exports = {
       },
       "servers": [
         {
-          "url": "http://dvws.local"
+          "url": "http://localhost:8000"
         }
       ]
     },
@@ -99,7 +99,7 @@ module.exports = {
         },
         "servers": [
           {
-            "url": "http://dvws.local"
+            "url": "http://localhost:8000"
           }
         ],
         "security": [
@@ -110,7 +110,7 @@ module.exports = {
       },
       "servers": [
         {
-          "url": "http://dvws.local"
+          "url": "http://localhost:8000"
         }
       ]
     },
@@ -127,7 +127,7 @@ module.exports = {
         },
         "servers": [
           {
-            "url": "http://dvws.local"
+            "url": "http://localhost:8000"
           }
         ],
         "security": [
@@ -138,7 +138,7 @@ module.exports = {
       },
       "servers": [
         {
-          "url": "http://dvws.local"
+          "url": "http://localhost:8000"
         }
       ]
     },
@@ -172,7 +172,7 @@ module.exports = {
         },
         "servers": [
           {
-            "url": "http://dvws.local"
+            "url": "http://localhost:8000"
           }
         ],
         "security": [
@@ -183,7 +183,7 @@ module.exports = {
       },
       "servers": [
         {
-          "url": "http://dvws.local"
+          "url": "http://localhost:8000"
         }
       ]
     },
@@ -217,7 +217,7 @@ module.exports = {
         },
         "servers": [
           {
-            "url": "http://dvws.local"
+            "url": "http://localhost:8000"
           }
         ],
         "security": [
@@ -246,7 +246,7 @@ module.exports = {
         },
         "servers": [
           {
-            "url": "http://dvws.local"
+            "url": "http://localhost:8000"
           }
         ],
         "security": [
@@ -257,7 +257,7 @@ module.exports = {
       },
       "servers": [
         {
-          "url": "http://dvws.local"
+          "url": "http://localhost:8000"
         }
       ]
     },
@@ -282,7 +282,7 @@ module.exports = {
         },
         "servers": [
           {
-            "url": "http://dvws.local"
+            "url": "http://localhost:8000"
           }
         ],
         "security": [
@@ -293,7 +293,7 @@ module.exports = {
       },
       "servers": [
         {
-          "url": "http://dvws.local"
+          "url": "http://localhost:8000"
         }
       ]
     },
@@ -332,7 +332,7 @@ module.exports = {
         },
         "servers": [
           {
-            "url": "http://dvws.local"
+            "url": "http://localhost:8000"
           }
         ],
         "security": [
@@ -343,7 +343,7 @@ module.exports = {
       },
       "servers": [
         {
-          "url": "http://dvws.local"
+          "url": "http://localhost:8000"
         }
       ]
     }
